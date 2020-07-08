@@ -12,9 +12,11 @@ Here is the basic project which was built using html,css and java script and her
 
 **Demo**
 
-**FrontEnd**
+FrontEnd
+
 <img src="firebase.PNG" width="1600" height="545" >
 
-**Firestore Database**
+Firestore Database
+
 <img src="firebase_backend.PNG" width="1600" height="545" >
 
