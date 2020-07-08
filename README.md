@@ -12,4 +12,4 @@ Here is the basic project which was built using html,css and java script and her
 
 **Demo**
 
-<img src="firebase.PNG" width="324" height="645" >
+<img src="firebase.PNG" width="1600" height="645" >
